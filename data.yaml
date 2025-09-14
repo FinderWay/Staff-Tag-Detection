@@ -1,0 +1,4 @@
+train: ./dataset_split/images/train
+val: ./dataset_split/images/val
+nc: 1
+names: ['staff_tag']
